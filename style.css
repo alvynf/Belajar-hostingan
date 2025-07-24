@@ -1,4 +1,4 @@
-/* === Global Reset & Font === */
+/* === Reset & Font === */
 * {
   margin: 0;
   padding: 0;
@@ -54,7 +54,7 @@ nav a:hover {
   transform: scale(1.05);
 }
 
-/* === Main Content === */
+/* === Main === */
 main {
   padding: 40px 20px;
   flex: 1;
@@ -94,7 +94,7 @@ main p {
   box-shadow: 0 6px 16px rgba(0,0,0,0.2);
 }
 
-/* === Responsive Footer (optional) === */
+/* === Footer === */
 footer {
   background-color: #ffd6d6;
   text-align: center;
@@ -102,4 +102,3 @@ footer {
   color: #555;
   font-size: 0.9em;
 }
-
